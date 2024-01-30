@@ -16,6 +16,7 @@ Run via Debugger in VSCode or any other convenient way
 This is for the GUI to work
 All data about the created characters is stored in the *prof* folder ID.json
 To upload a character, you need to enter the character ID at the end, the number before *.json*, this data can be found in the *prof* folder
+To create a character, you need to immediately write his name, and then choose a class by clicking on one of the buttons above.
 To give a character admin rights, you need to go to the *prof* folder, go to the desired character, and change `"admin": "off"` to `"admin": "on"`
 
 ## I hope you found it interesting, put an asterisk, I will be very grateful, have a nice day to you 
